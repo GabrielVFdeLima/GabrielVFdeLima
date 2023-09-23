@@ -1,4 +1,4 @@
-<h1 align="left">Oi, Eu sou o Gabriel, você está no meu perfil!</h1>
+<h1 align="left">Oi, eu sou o Gabriel, você está no meu perfil!</h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 <div align="center">
